@@ -1,11 +1,6 @@
-
-
-  <!-- Macro Logo -->
-  <picture>
-    <img src="https://raw.githubusercontent.com/waktool/.github/main/assets/PS99_Party_Box.webp">
-  </picture>
-  <br>
-
+<picture>
+  <img src="https://raw.githubusercontent.com/waktool/.github/main/assets/PS99_Party_Box.webp">
+</picture>
 
 <a name="title"><h1># Drop Stuff & Grind</h1></a>
 A macro that drops items in the best zone, and grinds it.
