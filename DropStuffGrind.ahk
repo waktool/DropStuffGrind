@@ -21,11 +21,11 @@ SetMouseDelay 10
 ; ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 global MACRO_TITLE := "Drop Stuff & Grind"
-global MACRO_VERSION := "0.3"
+global MACRO_VERSION := "0.3.1"
 global SETTINGS_INI := A_ScriptDir "\Settings.ini"
 global ONE_SECOND := 1000
-global FIRST_ZONE := 200
-global BEST_ZONE := 209
+global FIRST_ZONE := 210
+global BEST_ZONE := 214
 global SHOW_OCR_OUTLINE := getSetting("ShowOcrOutline", "Settings")
 global DARK_MODE := getSetting("DarkMode", "Settings")
 
